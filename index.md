@@ -10,5 +10,8 @@
   
    <p> 8-20-2020 Class Session</p>
   <p><a href="headings.html">Headings.html</a></p>
+  
+   <p> 8-20-2020 Class Session</p>
+  <p><a href="bulletlist.html">Bulletlist.html</a></p>
   </body>
 </html>
