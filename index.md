@@ -4,13 +4,16 @@
   </head>
   
   <body>
-    <p>Welcome to My Web Site</p>
-  <p> 8-17-2020 Class Session</p>
+ 
+    <h1>Welcome to My Web Site</h1>
+  <h2> 8-17-2020 Class Session</h2>
   <p><a href="first.html">First.html</a></p>
   
-   <p> 8-20-2020 Class Session</p>
+   <h2> 8-20-2020 Class Session</h2>
   <p><a href="headings.html">Headings.html</a></p>
   <p><a href="bulletlist.html">Bulletlist.html</a></p>
   <p><a href="numberedlist.html">Numberedlist.html</a></p>
+  <p><a href="tabledemo.html">tabledemo.html</a></p>
+  
   </body>
 </html>
