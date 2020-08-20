@@ -13,7 +13,7 @@
   <p><a href="headings.html">Headings.html</a></p>
   <p><a href="bulletlist.html">Bulletlist.html</a></p>
   <p><a href="numberedlist.html">Numberedlist.html</a></p>
-  <p><a href="tabledemo.html">tabledemo.html</a></p>
+  <p><a href="tabledemo.html">Tabledemo.html</a></p>
   
   </body>
 </html>
