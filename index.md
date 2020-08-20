@@ -10,4 +10,5 @@
   
    <p> 8-20-2020 Class Session</p>
   <p><a href="headings.html">Headings.html</a></p>
+  </body>
 </html>
