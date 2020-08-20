@@ -1,10 +1,12 @@
 <html>
   <head> 
-    <titile>My First Web Page </title>
+    <titile>My Web Site </title>
   </head>
   
   <body>
-    <p>Welcome to My Web Page</p>
+    <p>Welcome to My Web Site</p>
+  <p> 8-17-2020 Class Session</p>
+  <p><a href="first.html">First.html</a></p>
   </body>
   
 </html>
