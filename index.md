@@ -1,6 +1,6 @@
 <html>
   <head> 
-    <title>My Web Site </title>
+    <title>My Web Site</title>
   </head>
   
   <body>
